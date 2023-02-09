@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatulefM
 - 👀 I’m interested in Bitcoin
-- 🌱 I’m currently learning as much as I can
-- 💞️ I’m looking to collaborate on Bitcoin Development
+- 🌱 I’m currently philosophizing
+- 💞️ I’m looking to learn about Bitcoin Development
 
 <!---
 MatulefM/MatulefM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
