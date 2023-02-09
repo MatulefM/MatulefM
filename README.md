@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatulefM
-- 👀 I’m interested in Bitcoin
+- 👀 I’m interested in Liberty, Austrian Economics, and Bitcoin
 - 🌱 I’m currently philosophizing
 - 💞️ I’m looking to learn about Bitcoin Development
 
