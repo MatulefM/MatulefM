@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MatulefM
-- 👀 I’m interested in Liberty, Austrian Economics, and Bitcoin
-- 🌱 I’m currently philosophizing
-- 💞️ I’m looking to learn about Bitcoin Development
+Know Thyself | Everything Voluntary ✌️ | Follow the Tao  
 
 <!---
 MatulefM/MatulefM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
